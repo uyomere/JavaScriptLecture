@@ -6,7 +6,7 @@
 function printName(){
     let firstName = "obi"
     return firstName
-    var name = 'precious'
+    var name = 'preciou'
 }
 
 console.log(printName())
