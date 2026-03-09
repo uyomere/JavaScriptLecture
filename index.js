@@ -54,5 +54,7 @@ setInterval(sayHello, 1000)
 
 const countries = ['Finland', 'Denmark', 'Sweden', 'Norway', 'Iceland']
 
+const car = ['Benz', 'Toyota', 'Camry', 'Honda', 'Ford']
+
 
 countries.forEach((element) => {console.log(element.toUpperCase())})
